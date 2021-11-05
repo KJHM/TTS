@@ -199,7 +199,7 @@ class MyMainWindow(QMainWindow):
         #Window Attribute
         self.setWindowTitle('MPSinger')
         #self.setGeometry(300, 300, 600, 600)
-        self.setGeometry(300, 300, 960, 320)    #compact version
+        self.setGeometry(300, 300, 960, 540)    #compact version
         self.show()
 
 
